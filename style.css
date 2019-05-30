@@ -1,0 +1,15 @@
+.section2 button{
+width: 120px;
+margin: 10px;
+border: 1px solid black;
+background-color: white;
+border-radius: 7px;
+}
+
+.section3 img{
+    width: 100%;
+}
+
+.title3 p{
+    border: 1px solid black;
+}
